@@ -7,7 +7,9 @@ Simple Technique to Load Assembly/Bytes into local process (in-memory) via C# De
 
 note: as pentester you really need to change your own codes sometimes very fast , these codes changed and again worked very well and as security researcher this is really fun to find out new method/codes to bypass AVs always ;D
 
-Method is not really new but C# code a little bit is ;D [since 2022 i used this], changing RWX to X and after 2 min to RX ;D
+Method is not really new but C# code a little bit is ;D [since 2022 i used this], changing RWX to X and after 2 min to RX ;D 
+
+### Note: so in my opinion playing with R W X to X or sometimes to RX or (both) will help you to avoid get red-flag via AVs, so changing default + delays will help you to confuse AVs sometimes
 
 Usage: 
     
