@@ -25,7 +25,7 @@ Usage:
 Usage: 
     
      NativePayload_PE2.exe "meterpreter/cobaltstrike payload"
-     example: NativePayload_PE1.exe "fc,48,e8,00,....."     
+     example: NativePayload_PE2.exe "fc,48,e8,00,....."     
 
 
 ### NativePayload_PE1 steps
