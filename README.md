@@ -11,6 +11,8 @@ Method is not really new but C# code a little bit is ;D [since 2022 i used this]
 
 ### Note: so in my opinion playing with R W X to X or sometimes to RX or (both) will help you to avoid get red-flag via AVs, so changing default + delays will help you to confuse AVs sometimes
 
+Note: .NET 4.0 or 4.5 Tested
+
 Usage: 
     
      NativePayload_PE1.exe "meterpreter/cobaltstrike payload"
