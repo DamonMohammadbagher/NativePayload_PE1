@@ -26,3 +26,5 @@ Usage:
    
 ### NativePayload_PE1 steps
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/_x3.png)
+   
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_PE1/"/></a></p>
