@@ -16,7 +16,7 @@ Note: .NET 4.0 or 4.5 Tested
 Usage: 
     
      NativePayload_PE1.exe "meterpreter/cobaltstrike payload"
-     example: NativePayload_PE1.exe "fc.48.e8,00,....."
+     example: NativePayload_PE1.exe "fc,48,e8,00,....."
      
      
      
