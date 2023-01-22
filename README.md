@@ -19,6 +19,7 @@ Article: https://www.linkedin.com/pulse/2-simple-c-techniques-bypassing-anti-vir
 
 Article: https://damonmohammadbagher.github.io/Posts/22Jan2023x.html
 
+
 Usage: 
     
      NativePayload_PE1.exe "meterpreter/cobaltstrike payload"
