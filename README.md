@@ -1,7 +1,8 @@
 # NativePayload_PE1
 ### NativePayload_PE1 , Injecting Meterpreter Payload bytes into local Process via Delegation Technique + in-memory with delay Changing RWX to X or RX or (both), simple Technique to bypass some Anti-viruses
 
-Note: tested on WIN10 + WinDefender [update 2023/1/10]
+Note: tested on WIN10 + WinDefender [update 2023/1/10] (bypassed)
+Note: tested on WIN10 + Kaspersky cloud security v21.3 [update 2023/1/22] (bypassed)
 
 Simple Technique to Load Assembly/Bytes into local process (in-memory) via C# Delegation + Native APIs and Bypassing Anti-viruses ;), some part of code changed via [D]elegate Techniques which i called [Technique ;D] to change some behavior of code (also change source code) and ... 
 
@@ -47,4 +48,14 @@ Usage:
 
 ### NativePayload_PE2 vs ETW tools
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/pe2_blueteaming_tool.png)   
+--------------------------
+
+### NativePayload_PE1 vs Kaspersky v21.3 (bypassed)
+   ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/kasperskyPE1-1.png)   
+   
+### NativePayload_PE1 vs Kaspersky v21.3 (bypassed)
+   ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/kasperskyPE1-2.png)   
+   
+   ### NativePayload_PE2 vs Kaspersky v21.3 (bypassed)
+   ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/kasperskyPE2.png)   
 <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_PE1/"/></a></p>
