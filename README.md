@@ -2,6 +2,7 @@
 ### NativePayload_PE1 , Injecting Meterpreter Payload bytes into local Process via Delegation Technique + in-memory with delay Changing RWX to X or RX or (both), simple Technique to bypass some Anti-viruses
 
 Note: tested on WIN10 + WinDefender [update 2023/1/10] (bypassed)
+
 Note: tested on WIN10 + Kaspersky cloud security v21.3 [update 2023/1/22] (bypassed)
 
 Simple Technique to Load Assembly/Bytes into local process (in-memory) via C# Delegation + Native APIs and Bypassing Anti-viruses ;), some part of code changed via [D]elegate Techniques which i called [Technique ;D] to change some behavior of code (also change source code) and ... 
