@@ -17,7 +17,7 @@ Note: .NET 4.0 or 4.5 Tested
 
 Article: https://www.linkedin.com/pulse/2-simple-c-techniques-bypassing-anti-virus-damon-mohammadbagher/
 
-article: https://damonmohammadbagher.github.io/Posts/22Jan2023x.html
+Article: https://damonmohammadbagher.github.io/Posts/22Jan2023x.html
 
 Usage: 
     
