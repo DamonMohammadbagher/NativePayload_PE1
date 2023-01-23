@@ -5,6 +5,8 @@ Note: tested on WIN10 + WinDefender [update 2023/1/10] (bypassed)
 
 Note: tested on WIN10 + Kaspersky cloud security v21.3 [update 2023/1/22] (bypassed)
 
+#### Note: "as Security Researcher this was not my first time to bypass all Anti-viruses (or almost all of them ;D) but this one really was fun more than other methods which i have done in the past."
+
 Simple Technique to Load Assembly/Bytes into local process (in-memory) via C# Delegation + Native APIs and Bypassing Anti-viruses ;), some part of code changed via [D]elegate Techniques which i called [Technique ;D] to change some behavior of code (also change source code) and ... 
 
 note: as pentester you really need to change your own codes sometimes very fast , these codes changed and again worked very well and as security researcher this is really fun to find out new method/codes to bypass AVs always ;D
