@@ -1,6 +1,8 @@
 # NativePayload_PE1/PE2
 ### NativePayload_PE1 , Injecting Meterpreter Payload bytes into local Process via Delegation Technique + in-memory with delay Changing RWX to X or RX or (both), simple Technique to bypass some Anti-viruses
 
+Note: tested on WIN11 + WinDefender [update 2023/1/25] (bypassed)
+
 Note: tested on WIN10 + WinDefender [update 2023/1/10] (bypassed)
 
 Note: tested on WIN10 + Kaspersky cloud security v21.3 [update 2023/1/22] (bypassed)
@@ -37,18 +39,24 @@ Usage:
      example: NativePayload_PE2.exe "fc,48,e8,00,....."     
 
 
-### NativePayload_PE1 steps
+### NativePayload_PE1 steps [Win11]
+   ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/W11_1.png)
+   
+### NativePayload_PE2 steps [Win11]
+   ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/W11_2.png)   
+---------------------------
+### NativePayload_PE1 steps [Win10]
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/_x1.png)
    
-### NativePayload_PE1 steps
+### NativePayload_PE1 steps [Win10]
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/_x2.png)
    
-### NativePayload_PE1 steps
+### NativePayload_PE1 steps [Win10]
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/_x3.png)
    
 -------------------------   
 
-### NativePayload_PE2 steps
+### NativePayload_PE2 steps [Win10]
    ![](https://github.com/DamonMohammadbagher/NativePayload_PE1/blob/main/pic/pe2.png)   
 
 ### NativePayload_PE2 vs ETW tools
