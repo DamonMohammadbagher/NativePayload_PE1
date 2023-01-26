@@ -1,5 +1,5 @@
 # NativePayload_PE1/PE2
-### NativePayload_PE1 , Injecting Meterpreter Payload bytes into local Process via Delegation Technique + in-memory with delay Changing RWX to X or RX or (both), simple Technique to bypass some Anti-viruses
+### NativePayload_PE1 , Injecting Meterpreter Payload bytes into local Process via Delegation Technique + in-memory with delay Changing RWX to X or RX or (both), simple Technique to bypass some Anti-viruses.
 
 Note: tested on WIN11 + WinDefender [update 2023/1/25] (bypassed)
 
