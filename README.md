@@ -27,6 +27,10 @@ Article: https://www.linkedin.com/pulse/2-simple-c-techniques-bypassing-anti-vir
 
 Article: https://damonmohammadbagher.github.io/Posts/22Jan2023x.html
 
+Video1 [NativePayload_PE2.cs and NativePaylod_AsynASM.cs] => https://www.youtube.com/watch?v=T57pWzS59Y8 
+
+Video2 [NativePayload_PE3.cs] => https://www.youtube.com/watch?v=sqyKqiU1lsE
+
 
 Usage: 
     
