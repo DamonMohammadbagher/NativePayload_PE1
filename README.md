@@ -31,6 +31,8 @@ Video1 [NativePayload_PE2.cs and NativePaylod_AsynASM.cs] => https://www.youtube
 
 Video2 [NativePayload_PE3.cs] => https://www.youtube.com/watch?v=sqyKqiU1lsE
 
+Video3 [NativePaylod_AsynASM.cs] => https://www.linkedin.com/posts/damonmohammadbagher_bypassing-redteaming-pentesting-activity-7031685536918458369-U9XY
+
 
 Usage: 
     
